@@ -17,4 +17,6 @@
   
   </div>
   
+  ![Snake animation](https://github.com/xmariane-araujo/xmariane-araujo/blob/output/github-contribution-grid-snake.svg)
+  
   
